@@ -1,0 +1,2 @@
+# Linear-Regression-
+In this study our objective is to predict the health charges based on important factors like:  Age , Sex , BMI (Body Mass Index) , Children (Number of children covered by health insurance / Number of dependents) , Smoker , Region, Charges. For this analysis we used binary classification task, correlating each features with charges in order to capture different patterns of the data. Based on their characteristics, we built a Linear Regression Model. Finally, we tried out some tests to examine the prediction which showed us good results.
