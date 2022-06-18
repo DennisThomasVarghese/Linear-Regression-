@@ -106,7 +106,7 @@ ggplot(Data_test, aes(x = residuals)) +
 
 GainCurvePlot(Data_test, "prediction", "charges", "Model")
 
-Dennis <- data.frame(age = 25,
+Dennis <- data.frame(age = 26,
                      bmi = 30.9,
                      children = 0,
                      smoker = "no",
